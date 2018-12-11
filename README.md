@@ -5,12 +5,12 @@
 ###### This project was built for learning purposes with the help of tutorials made by [scotch.io](https://scotch.io/courses/getting-started-with-react/).
 
 
-### Getting Started
+#### Getting Started
 - [x] Introduction
 - [ ] Setting Up the Dev Environment
 - [ ] Getting Something on a Page
 - [ ] Creating Your First Component
-### Working with React
+#### Working with React
 - [ ] Making an Input Component
 - [ ] Managing State of a Component
 - [ ] Parent-Child Component Communication
