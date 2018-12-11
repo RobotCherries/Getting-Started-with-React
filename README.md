@@ -8,7 +8,7 @@
 * [Scrimba Playground](https://scrimba.com/c/c9zJWcZ)
 
 
-#### React
+#### React:
 * [Kirupa Chinnathambi](https://www.kirupa.com/react/index.htm)
 * [Scrimba](https://scrimba.com/)
 * [Scotch.io](https://scotch.io/tag/react)
