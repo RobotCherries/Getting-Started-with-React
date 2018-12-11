@@ -22,3 +22,8 @@
 - [ ] Lifecycle Methods
 - [ ] PropTypes
 - [ ] Wrapup
+
+##### Used:
+- [x] Git
+- [x] Yarn/Npm
+- [x] React
