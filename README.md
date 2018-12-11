@@ -7,18 +7,18 @@
 
 ### Getting Started
 - [x] Introduction
-- [] Setting Up the Dev Environment
-- [] Getting Something on a Page
-- [] Creating Your First Component
+- [ ] Setting Up the Dev Environment
+- [ ] Getting Something on a Page
+- [ ] Creating Your First Component
 ### Working with React
-- [] Making an Input Component
-- [] Managing State of a Component
-- [] Parent-Child Component Communication
-- [] Iterating Over Data
-- [] Passing Props Through Children
+- [ ] Making an Input Component
+- [ ] Managing State of a Component
+- [ ] Parent-Child Component Communication
+- [ ] Iterating Over Data
+- [ ] Passing Props Through Children
 #### Diving Further
-- [] Conditionally Displaying Components
-- [] Functional Components
-- [] Lifecycle Methods
-- [] PropTypes
-- [] Wrapup
+- [ ] Conditionally Displaying Components
+- [ ] Functional Components
+- [ ] Lifecycle Methods
+- [ ] PropTypes
+- [ ] Wrapup
