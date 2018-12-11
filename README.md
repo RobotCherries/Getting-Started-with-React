@@ -7,9 +7,9 @@
 
 #### Getting Started
 - [x] Introduction
-- [ ] Setting Up the Dev Environment
-- [ ] Getting Something on a Page
-- [ ] Creating Your First Component
+- [x] Setting Up the Dev Environment on MacOS
+- [x] Getting Something on a Page
+- [x] Creating Your First Component
 #### Working with React
 - [ ] Making an Input Component
 - [ ] Managing State of a Component
@@ -24,6 +24,8 @@
 - [ ] Wrapup
 
 ##### Used:
-- [x] Git
-- [x] Yarn/Npm
-- [x] React
+* Visual Studio Code
+* Git
+* Yarn & NPM
+* React.js, React developer tools
+* 
